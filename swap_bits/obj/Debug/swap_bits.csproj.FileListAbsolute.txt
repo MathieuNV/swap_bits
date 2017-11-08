@@ -1,0 +1,8 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\bin\Debug\swap_bits.exe.config
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\bin\Debug\swap_bits.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\bin\Debug\swap_bits.pdb
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\obj\Debug\swap_bits.csprojResolveAssemblyReference.cache
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\obj\Debug\swap_bits.Properties.Resources.resources
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\obj\Debug\swap_bits.csproj.GenerateResource.Cache
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\obj\Debug\swap_bits.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\swap_bits\swap_bits\obj\Debug\swap_bits.pdb
